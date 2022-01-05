@@ -28,3 +28,7 @@ CREDITS: Polygon Runway(YOUTUBE).
 **Thor Hammer:**
 
 ![output (4)](https://user-images.githubusercontent.com/53465280/148278970-4eb4d870-d701-4eae-ab6c-1b2415a37507.png)
+
+**Holo Earth:**
+
+![output (5)](https://user-images.githubusercontent.com/53465280/148281847-0963614b-6978-4bf5-a807-9081c9754c7c.png)
