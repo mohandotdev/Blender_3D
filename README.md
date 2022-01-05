@@ -21,6 +21,10 @@ CREDITS: Polygon Runway(YOUTUBE).
 
 ![output (2)](https://user-images.githubusercontent.com/53465280/148195221-273e2c54-7f00-42c2-8104-5814da1c4722.png)
 
-**Sci-Fic_Office:**
+**Sci-Fic Office:**
 
 ![output (3)](https://user-images.githubusercontent.com/53465280/148202302-8ec2e989-fe88-479e-a180-0453bea1c34f.png)
+
+**Thor Hammer:**
+
+![output (4)](https://user-images.githubusercontent.com/53465280/148278970-4eb4d870-d701-4eae-ab6c-1b2415a37507.png)
