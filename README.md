@@ -20,3 +20,7 @@ CREDITS: Polygon Runway(YOUTUBE).
 **Portal:**
 
 ![output (2)](https://user-images.githubusercontent.com/53465280/148195221-273e2c54-7f00-42c2-8104-5814da1c4722.png)
+
+**Sci-Fic_Office:**
+
+![output (3)](https://user-images.githubusercontent.com/53465280/148202302-8ec2e989-fe88-479e-a180-0453bea1c34f.png)
