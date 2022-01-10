@@ -32,3 +32,7 @@ CREDITS: Polygon Runway(YOUTUBE).
 **Holo Earth:**
 
 ![output (5)](https://user-images.githubusercontent.com/53465280/148281847-0963614b-6978-4bf5-a807-9081c9754c7c.png)
+
+**Christmas Hat**
+
+![xmas_hat](https://user-images.githubusercontent.com/53465280/148779335-0be00d1e-8896-426e-ae8e-d0078492fad0.png)
